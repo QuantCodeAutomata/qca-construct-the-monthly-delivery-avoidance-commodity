@@ -1,0 +1,4 @@
+strategy,sharpe,cumret,maxdd
+SSA_Classical_LONG,0.583,0.902,-0.2124
+SSA_VolNorm_LONG,0.79,1.7147,-0.1538
+BENCHMARK,0.886,0.3491,-0.0566

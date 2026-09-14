@@ -1,0 +1,5 @@
+family,label,strategy_a,strategy_b,d_sharpe,p_value,n_exceed,holm_reject
+1,SSA_L vs Bench,SSA_Classical_LONG,BENCHMARK,-0.3026,0.002,0,True
+1,SSA_VN_L vs Bench,SSA_VolNorm_LONG,BENCHMARK,-0.0962,0.002,0,True
+3,SSA_L vs SSA_VN_L,SSA_Classical_LONG,SSA_VolNorm_LONG,-0.2064,0.002,0,True
+5,Raw_L vs VN_L,SSA_Classical_LONG,SSA_VolNorm_LONG,-0.2064,0.002,0,True

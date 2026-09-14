@@ -1,0 +1,2 @@
+retained,expected,match,missing_from_retained,extra_in_retained,n_retained,n_expected
+"['CC', 'CF', 'CO', 'CP', 'CT', 'GD', 'HE', 'HO', 'LE', 'NG', 'SU', 'SV', 'ZC', 'ZS', 'ZW']","['CC', 'CF', 'CO', 'CP', 'CT', 'GD', 'HE', 'HO', 'LE', 'NG', 'SU', 'SV', 'ZC', 'ZS', 'ZW']",True,[],[],15,15
